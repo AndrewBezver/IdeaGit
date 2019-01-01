@@ -1,0 +1,2 @@
+# IdeaGit
+Manual Idea-Git
